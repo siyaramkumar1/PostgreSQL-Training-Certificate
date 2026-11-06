@@ -29,3 +29,6 @@ Learning Today, Building Tomorrow!
 
 
 [View My PostgreSQL Training Certificate (PDF)](./SIYARAM-KUMAR-Participant-Certificate%20(3).pdf)
+
+
+[Download Certificate](./SIYARAM-KUMAR-Participant-Certificate%20(3).pdf)
