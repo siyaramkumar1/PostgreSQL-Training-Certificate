@@ -4,7 +4,7 @@ Siyaram Kumar | B.Sc. IT Graduate
 
 Successfully completed **RDBMS PostgreSQL Training** organized at CIMAGE Professional College.
 
-## 📚 Training Details
+📚 Training Details
 
 - Candidate: Siyaram Kumar
 - Training: RDBMS PostgreSQL
